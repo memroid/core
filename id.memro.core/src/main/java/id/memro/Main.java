@@ -2,6 +2,7 @@ package id.memro;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Game game1 = new Game();
+        game1.runGame();
     }
 }
