@@ -8,4 +8,12 @@ public class Card {
         this.sourceWord = sourceWord;
         this.targetWord = targetWord;
     }
+
+    public String getTargetWord() {
+        return targetWord;
+    }
+
+    public String getSourceWord() {
+        return sourceWord;
+    }
 }
