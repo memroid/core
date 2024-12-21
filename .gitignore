@@ -1,6 +1,7 @@
 # JetBrains files
 *.iml
 .idea/
+target/
 
 # Compiled class file
 *.class
